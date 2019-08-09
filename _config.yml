@@ -17,8 +17,8 @@ title: Technowise Utilities
 email: hello@technogise.com
 description: >- # this means to ignore newlines until "baseurl:"
   Takeaways or utilities for technowise sessions
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/workshop-util" # the subpath of your site, e.g. /blog
+url: "https://prathamudeshmukh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: technogise
 linkedin_username:  technogise
 future: true
