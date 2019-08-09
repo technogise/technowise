@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: technogise
 linkedin_username:  technogise
 future: true
+root: /
 
 # Build settings
 markdown: kramdown
