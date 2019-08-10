@@ -5,7 +5,7 @@ title:  "Welcome to React Native Workshop"
 
 # Following are the useful info to refer to during workshop
 
- - React Native Installation steps to follow [here](https://facebook.github.io/react-native/docs/getting-started)
+ - React Native Installation steps to follow [here](https://facebook.github.io/react-native/docs/getting-started) and follow the **React-Native CLI** guide
 
  - Sample JSON
  {% highlight json %}
