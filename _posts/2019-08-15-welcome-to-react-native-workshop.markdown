@@ -47,6 +47,9 @@ title:  "Welcome to React Native Workshop"
   }
 ]
  {% endhighlight %}
+
+ - [MarvelApp Github Repo](https://github.com/prathamudeshmukh/MarvelApp.git)
+
  - API Related details
 
  API base URL | `https://gateway.marvel.com:443/v1/public`
