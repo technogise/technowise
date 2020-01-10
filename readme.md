@@ -1,4 +1,5 @@
-##Local setup
+## Local setup
+
 - Install Jekyll and bundler gems.
 
     `gem install jekyll bundler`
